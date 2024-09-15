@@ -1,0 +1,7 @@
+.Services{
+    background-color: white;
+    /* flex-wrap: wrap; */
+}
+.cards{
+    flex-wrap: wrap;
+}
